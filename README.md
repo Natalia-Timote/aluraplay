@@ -16,7 +16,7 @@ Durante o curso, o foco foi aprender a **organizar elementos com Flexbox** e cri
 
 ## 📚 Objetivos do Curso
 
-* Aprender a utilizar propriedades do Flexbox na prática construindo um projeto responsivo;
+* Aprender a utilizar propriedades do **Flexbox** na prática construindo um projeto responsivo;
 * Alterar o eixo de itens para horizontal ou vertical;
 * Aplicar vídeos de forma responsiva utilizando propriedades Flexbox;
 * Conhecer as características do Flexbox;
