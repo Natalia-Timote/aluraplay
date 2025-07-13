@@ -41,3 +41,11 @@ O projeto está disponível para visualização na **Vercel**. Clique no link ab
 Layout com barra superior de navegação e menu lateral com ícones. Vídeos organizados com Flexbox de forma responsiva no corpo principal.
 
 ![Página Inicial](img/alura-play.png)
+
+**📱 Responsividade**
+
+Layout adaptado para diferentes tamanhos de tela com foco em mobile-first.
+
+![Responsividade](img/alura-play-responsivity.png)
+
+
